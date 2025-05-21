@@ -77,4 +77,4 @@ Here are some projects I'm proud of:
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/andieewu/andieew/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/andieewu/andieewu/blob/output/github-contribution-grid-snake.svg)
