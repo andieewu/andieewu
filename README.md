@@ -13,21 +13,14 @@
 
 ### 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" align="left" alt="Cool Coding GIF" style="margin-right: 20px;" />
+
 I love coding so bad!
 
 - 🌱 I’m currently learning **Python** and **JavaScript**.  
 - 📫 How to reach me: [wisnumurtiandika@gmail.com](mailto:wisnumurtiandika@gmail.com)
 
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+<br clear="left" />
 
 
 ---
@@ -53,7 +46,7 @@ Here are some projects I'm proud of:
 
 ### 🌐 Connection
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/andika-wisnumurti-a8a41533b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -75,11 +68,5 @@ Here are some projects I'm proud of:
 </p>
 
 ---
-
-<p align="center">@andieewu - Andika Wisnumurti</p>
-
----
-
-### 🐍 Contribution Snake
 
 ![snake gif](https://github.com/andieewu/andieewu/blob/output/github-contribution-grid-snake.svg)
