@@ -1,8 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-</p>
-
 <h1 align="center">Yooo! wassup? 👋, I'm Andieew!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -17,18 +13,22 @@
 
 ### 🧑‍💻 About Me
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
 I love coding so bad!
 
-- 🌱 I’m currently learning **Python** and **JavaScript**.
+- 🌱 I’m currently learning **Python** and **JavaScript**.  
 - 📫 How to reach me: [wisnumurtiandika@gmail.com](mailto:wisnumurtiandika@gmail.com)
 
----
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,php,nodejs,tailwind,mysql,sqlite,git,vscode,windows" />
-</p>
 
 ---
 
