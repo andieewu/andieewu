@@ -1,7 +1,12 @@
 <!-- Header -->
-<h2 align="center">Yooo!, I'm Andika Wisnumurti  👋</h2>
-<h2 align="center">🚀 Software Developer | 🌐 Web Enthusiast | 🎧 Music Lover</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+</p>
 
+<h1 align="center">Yooo! wassup? 👋, I'm Andieew!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 <!-- Stats and Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andieewu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
