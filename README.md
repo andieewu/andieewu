@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Yooo! wassup? 👋, I'm Andieew!</h1>
+<h1 align="center">Yoo! wassup? 👋, I'm Andieew!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
@@ -13,15 +13,12 @@
 
 ### 🧑‍💻 About Me
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" align="left" alt="Cool Coding GIF" style="margin-right: 20px;" />
+Hi, I'm Andieew — a passionate software developer who loves turning ideas into reality through code.
 
-I love coding so bad!
-
-- 🌱 I’m currently learning **Python** and **JavaScript**.  
-- 📫 How to reach me: [wisnumurtiandika@gmail.com](mailto:wisnumurtiandika@gmail.com)
-
-<br clear="left" />
-
+- 🔭 Currently exploring **Python** and **JavaScript**
+- 🌱 Always learning new things, especially in web development
+- 💬 Love to build things that solve real problems
+- 📫 Reach me at: [wisnumurtiandika@gmail.com](mailto:wisnumurtiandika@gmail.com)
 
 ---
 
