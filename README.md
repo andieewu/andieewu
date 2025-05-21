@@ -41,7 +41,7 @@ Here are some projects I'm proud of:
 
 --- -->
 
-### 🌐 Connection
+### 🌐 Connections
 
 <p align="center">
   <a href="https://linkedin.com/in/andika-wisnumurti-a8a41533b" target="_blank">
