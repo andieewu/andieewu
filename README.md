@@ -62,5 +62,7 @@ Here are some projects I'm proud of:
 </p>
 
 ---
+<div class="align-item: center; justify-content="center">
+  ![snake gif](https://github.com/andieewu/andieewu/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-![snake gif](https://github.com/andieewu/andieewu/blob/output/github-contribution-grid-snake.svg)
