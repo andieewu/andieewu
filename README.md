@@ -24,9 +24,14 @@ Hi, I'm Andieew — a passionate software developer who loves turning ideas into
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andieewu&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andieewu&layout=compact&theme=tokyonight" height="180"/>
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andieewu&show_icons=true&theme=tokyonight" height="180" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andieewu&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
