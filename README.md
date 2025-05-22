@@ -62,8 +62,12 @@ Here are some projects I'm proud of:
 </p>
 
 ---
-<p align="center">
+
   ![snake gif](https://github.com/andieewu/andieewu/blob/output/github-contribution-grid-snake.svg)
+
+  <p align="center">
+  <img src="https://github.com/andieewu/andieewu/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
 
