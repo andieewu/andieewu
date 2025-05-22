@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Yoo! wassup? 👋, I'm Andieew!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0e75b6&size=32&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 <!-- Stats and Profile Views -->
 <p align="center">
@@ -24,14 +24,9 @@ Hi, I'm Andieew — a passionate software developer who loves turning ideas into
 
 ### 📈 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andieewu&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andieewu&layout=compact&theme=tokyonight" height="180"/>
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andieewu&show_icons=true&theme=tokyonight" height="180" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andieewu&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
@@ -68,9 +63,7 @@ Here are some projects I'm proud of:
 
 ---
 
-  <!-- ![snake gif](https://github.com/andieewu/andieewu/blob/output/github-contribution-grid-snake.svg) -->
-
-  <p align="center">
+<p align="center">
   <img src="https://github.com/andieewu/andieewu/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
