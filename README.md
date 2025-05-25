@@ -18,7 +18,6 @@ Hi, I'm Andieew — a passionate software developer who loves turning ideas into
 - 🔭 Currently exploring **Python** and **JavaScript**
 - 🌱 Always learning new things, especially in web development
 - 💬 Love to build things that solve real problems
-- 📫 Reach me at: [wisnumurtiandika@gmail.com](mailto:wisnumurtiandika@gmail.com)
 
 ---
 
