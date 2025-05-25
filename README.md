@@ -20,9 +20,8 @@ Hi, I'm Andi — a passionate software developer who loves turning ideas into re
 - 💬 Love to build things that solve real problems
 
 ---
-
-### 📈 GitHub Stats
 <!--
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andieewu&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andieewu&layout=compact&theme=tokyonight" height="180"/>
