@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi, I'm Andieew — a passionate software developer who loves turning ideas into reality through code.
+Hi, I'm Andi — a passionate software developer who loves turning ideas into reality through code.
 
 - 🔭 Currently exploring **Python** and **JavaScript**
 - 🌱 Always learning new things, especially in web development
@@ -43,9 +43,6 @@ Here are some projects I'm proud of:
 ### 🌐 Connections
 
 <p align="center">
-  <a href="https://linkedin.com/in/andika-wisnumurti-a8a41533b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://instagram.com/andieewu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
