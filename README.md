@@ -27,7 +27,6 @@ Hi, I'm Andi — a passionate software developer who loves turning ideas into re
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andieewu&layout=compact&theme=tokyonight" height="180"/>
 </p>-->
 
----
 <!-- 
 ### 📌 Featured Projects
 
