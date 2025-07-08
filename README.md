@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hello👋... I'm Andi!</h1>
+<h1 align="center">Hello there!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0e75b6&size=32&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
